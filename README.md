@@ -6,7 +6,7 @@ This is the introduction for git commands
 
 
 ## Purpose
-
+To achieve better understanding of git
 
 ## Deployment
 
