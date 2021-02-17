@@ -9,6 +9,6 @@ This is the introduction for git commands
 To achieve better understanding of git
 
 ## Deployment
-
+This is the deployment phase
 Sample website with plenty of files for demos
 ## How to contribute
